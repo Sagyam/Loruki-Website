@@ -14,7 +14,7 @@ This site is being deployed on Netlify
 ![Features](https://raw.githubusercontent.com/Sagyam/Loruki-Website/main/images/features.png)
 ---
 # Documentation
-!Documentation](https://raw.githubusercontent.com/Sagyam/Loruki-Website/main/images/docs.png)
+![Documentation](https://raw.githubusercontent.com/Sagyam/Loruki-Website/main/images/docs.png)
 ---
 # Credits
 Thanks to [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) for the [guided project](https://www.youtube.com/watch?v=p0bGHP-PXD4&t=6700s&ab_channel=TraversyMedia)
