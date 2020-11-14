@@ -1,8 +1,8 @@
-# Loruki-Website
+# ![Loruki-Website](https://loruki-hosting.netlify.app/)
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
-width=24>
+width=48>
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
-width=18>
+width=36>
 
 Cloud hosting website build using HTML5 and modern CSS techniques such as CSS Grid, Flex-box, Pseudo selectors, animations.
 This site is being deployed on Netlify
