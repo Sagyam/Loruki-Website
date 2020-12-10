@@ -1,8 +1,6 @@
 # [Loruki-Website](https://loruki-hosting.netlify.app/)
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
-width=48>
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
-width=36>
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 Cloud hosting website build using HTML5 and modern CSS techniques such as CSS Grid, Flex-box, Pseudo selectors, animations.
 This site is being deployed on Netlify
