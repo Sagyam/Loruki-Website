@@ -1,4 +1,6 @@
 # [Loruki-Website](https://loruki-hosting.netlify.app/)
+[![GitHub license](https://img.shields.io/github/license/Sagyam/Loruki-Website?style=for-the-badge)](https://github.com/Sagyam/Loruki-Website/blob/main/LICENSE)
+![Lines of code](https://img.shields.io/tokei/lines/github/Sagyam/Loruki-Website?style=for-the-badge)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
